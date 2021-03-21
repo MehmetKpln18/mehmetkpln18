@@ -1,29 +1,19 @@
-</br></br>
+<p align="center"><img src="https://img.icons8.com/color/26/000000/github-2.png"/></p>
+</br>
 <p align="center">
-<img src="https://img.icons8.com/color/26/000000/github-2.png"/>
-</p>
-
- </br>
-<p align="center">
-<samp>
-I'm Paul. A social scientist from the UK transitioning out of academia to pursue a career in data science and research.
-</samp>
-</br></br>
 <samp>
 Mehmet Kaplan , 26 Nisan 1994 Çankırı doğumluyum. İnternet geçmişim ByİkİzLeR kullanıcı adı ile başladı birçok vBulletin Forumunda destek verdim. Ailemin baskısı ile internet geçmişime tasarım ve kodlamadan para kazanma sürecine gelince itirazlar sonucu vazgeçirildim gelecek kaygısı vs. geniş bir aradan sonra ( üniversite yıllarımda çok fazla uğraşamadım ) php dilinde kendimi geliştirmeye karar verdim şu an yol kat ettiğimi düşünmesemde destek almaya ve bildiğim konularda destek vermek istiyorum . Bilgiyi paylaşmak gerek .
 </samp>
-</br></br>
 </p>
+</br>
 <samp>
 <p align="center">
 <a href="mailto:mehmetkpln18@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/mehmetkpln18/">Linkedin</a> | <a href="https://twitter.com/mehmetkpln18">Twitter</a> | <a href="https://www.mehmetkaplan.net">Website</a>
 </p>
-
 <br/>
 <br/>
 
 <h2 align="center"><samp>Github Stats</samp></h2>
-
 <a href="https://github.com/mehmetkpln18/github-readme-stats">
   <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=mehmetkpln18&bg_color=00000000&title_color=ff6e96&text_color=A5A5B6&hide_border=true&show_icons=false&count_private=true" />
 </a>
