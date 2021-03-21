@@ -17,17 +17,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mehmetkpln18&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetkaplan" /> </p>
 
-<a href="https://github.com/mehmetkpln18/github-readme-stats">
-  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=mehmetkpln18&bg_color=00000000&title_color=ff6e96&text_color=A5A5B6&hide_border=true&show_icons=false&count_private=true" />
-</a>
+<img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=mehmetkpln18&bg_color=00000000&title_color=ff6e96&text_color=A5A5B6&hide_border=true&show_icons=false&count_private=true" alt="mehmetkaplan" />
 
-<a href="https://github.com/github-readme-stats">
-  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api/top-langs/?username=mehmetkpln18&bg_color=00000000&hide_border=true&title_color=ff6e96&text_color=A5A5B6&layout=compact" />
-</a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetkpln18&bg_color=00000000&hide_border=true&title_color=ff6e96&text_color=A5A5B6&show_icons=true&locale=tr&layout=compact" alt="mehmetkaplan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetkpln18&&bg_color=00000000&hide_border=true&title_color=ff6e96&text_color=A5A5B6&show_icons=true&locale=tr&layout=compact" alt="mehmetkaplan" /></p>
+<img align="center" src="https://github-stats-51zyiojh0.vercel.app/api/top-langs/?username=mehmetkpln18&bg_color=00000000&hide_border=true&title_color=ff6e96&text_color=A5A5B6&layout=compact" alt="mehmetkaplan" />
 
 ------
 Credit: [Mehmet Kaplan](https://github.com/mehmetkpln18)
