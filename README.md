@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetkpln18&bg_color=00000000&hide_border=true&title_color=ff6e96&text_color=A5A5B6&show_icons=true&locale=tr&layout=compact" alt="mehmetkaplan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetkpln18&" alt="mehmetkaplan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetkpln18&bg_color=00000000&title_color=ff6e96&text_color=A5A5B6&hide_border=true&show_icons=false&count_private=true" alt="mehmetkaplan" /></p>
 
 ------
 Credit: [Mehmet Kaplan](https://github.com/mehmetkpln18)
