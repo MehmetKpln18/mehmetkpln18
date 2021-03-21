@@ -14,6 +14,7 @@
 <br/>
 
 <h2 align="center"><samp>Github Stats</samp></h2>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mehmetkpln18&label=Profile%20views&color=0e75b6&style=flat&locale=tr" alt="mehmetkaplan" /> </p>
 
 <a href="https://github.com/mehmetkpln18/github-readme-stats">
