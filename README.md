@@ -10,12 +10,9 @@ I'm Paul. A social scientist from the UK transitioning out of academia to pursue
 </samp>
 </br></br>
 <samp>
-As a political scientist, my research interests are centered around party and party system change, particularly the development of new political parties in established systems. However, I am broadly interested in applying machine learning techniques to modeling human behavior. Outside of social science, I am passionate about a variety of topics, one of which is sports analytics.
+Mehmet Kaplan , 26 Nisan 1994 Çankırı doğumluyum. İnternet geçmişim ByİkİzLeR kullanıcı adı ile başladı birçok vBulletin Forumunda destek verdim. Ailemin baskısı ile internet geçmişime tasarım ve kodlamadan para kazanma sürecine gelince itirazlar sonucu vazgeçirildim gelecek kaygısı vs. geniş bir aradan sonra ( üniversite yıllarımda çok fazla uğraşamadım ) php dilinde kendimi geliştirmeye karar verdim şu an yol kat ettiğimi düşünmesemde destek almaya ve bildiğim konularda destek vermek istiyorum . Bilgiyi paylaşmak gerek .
 </samp>
 </br></br>
-<samp>
-My skill set combines a formal education in statistics and quantitative methods and a passion for coding and computing. I am comfortable using a variety of machine learning tools, and my specialty lies in causal inference, NLP, and predictive modeling. However, I continue to be enthusiastic about developing my existing skills and expanding my knowledge of the field.
-</samp>
 </p>
 <samp>
 <p align="center">
