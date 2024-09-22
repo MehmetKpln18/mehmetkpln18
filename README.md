@@ -1,5 +1,3 @@
-![](https://visitcount.itsvg.in/api?id=mehmetkpln18&label=Profile%20Views&color=12&icon=1&pretty=true)
-------
 # 💫 About Me:
 I was born in 1994 in Çankırı (18) Merkez. I am an architect, I do graphic design and web design as a hobby. My internet history started with the username ByİkİzLeR and I supported many vBulletin based forums. I continue to improve myself in Php, WordPress, Python, Framework.
 
@@ -58,11 +56,13 @@ I was born in 1994 in Çankırı (18) Merkez. I am an architect, I do graphic de
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehmetkpln18&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkpln18&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mehmetkaplan)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/mehmetkpln18) 
 
-  
+## ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Zorlay%C4%B1nca%20olmaz%20nasipse%20olur,%20zorlamadan%20da%20nasip%20olmaz%20%C3%A7%C3%BCnk%C3%BC%20kader%20gayrete%20a%C5%9F%C4%B1kt%C4%B1r&author=Yunus%20Emre%20Hz.)
+
+![](https://visitcount.itsvg.in/api?id=mehmetkpln18&label=Profile%20Views&color=12&icon=1&pretty=true)
+
+---
